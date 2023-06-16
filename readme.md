@@ -10,3 +10,8 @@
 1. https://startbootstrap.com/previews/freelancer
 2. tik desktop versija
 3. ![](assets/2023-06-16-14-21-45.png)
+
+## savaitagliui
+
+1. https://preview.colorlib.com/theme/logis/
+1. https://preview.colorlib.com/theme/dogger/
